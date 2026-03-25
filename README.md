@@ -119,7 +119,7 @@ The frontend (`templates/index.html`) communicates with Flask over `fetch`. On r
 
 ```bash
 # Clone the repository
-git clone https://github.com/Tanish-git-dev/8-puzzle-solver.git
+git clone https://github.com/Tanish-git-dev/8-puzzle-game.git
 cd 8-puzzle-solver
 
 # Install dependencies
